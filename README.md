@@ -1,5 +1,6 @@
 # Illuminated Space
 C ++ algorithm that calculates the following task:
+  
   Imagine having a light source attached to the top of a large room. This light source illuminates a certain space from the floor of the room. 
   What we want to find is the geometric representation of the light beam and the illuminated floor space under the conditions described below:
    - The light source is schematically represented by a regular quadrangular pyramid with a surrounding edge equal to the main one.
